@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, World! I'm Zoyanaaz
 
-<!--
-**zoyanaaz786/zoyanaaz786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Student | Developer in Progress | AI Explorer**
 
-Here are some ideas to get you started:
+I believe the best way to learn technology is to **build with it**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Exploring
+
+`Python` `AI/ML` `RAG` `LLMs` `Generative AI` `SQL` `Excel` `Data Analytics`
+
+### 🛠️ Building
+
+* 🤖 AI-powered applications
+* 📊 Data-driven projects
+* 🧠 RAG & LLM experiments
+* 💻 Software projects
+* 📈 Data analysis & Excel-based solutions
+
+### 📈 My GitHub Journey
+
+**Learn → Experiment → Build → Improve**
+
+Every repository represents something I learned, something I tried, or something I wanted to create.
+
+### 🎯 Goal
+
+To become a developer who doesn't just **use technology**, but understands it, builds with it, and uses it to solve meaningful problems.
+
+**Thanks for stopping by! ⭐**
+
