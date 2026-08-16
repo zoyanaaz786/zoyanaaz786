@@ -26,5 +26,5 @@ Every repository represents something I learned, something I tried, or something
 
 To become a developer who doesn't just **use technology**, but understands it, builds with it, and uses it to solve meaningful problems.
 
-👀 Thanks for taking a look around!
+** 🌟 Thanks for exploring my little corner of GitHub! **
 
