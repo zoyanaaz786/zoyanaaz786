@@ -1,109 +1,81 @@
-# 👋 Hey, I'm **Zoyanaaz**
+# 👋 Hello, World! I'm Zoyanaaz
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Building+with+Python+%F0%9F%90%8D;Exploring+AI+%26+Data+%F0%9F%A4%96;Turning+Ideas+into+Working+Projects+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=CSE+Student+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Building+Ideas+into+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Header" />
 </p>
 
-### 🧠 A little about me
+> 💡 **I believe the best way to learn technology is to build with it.**
 
-I'm a **Computer Science Engineering student** who enjoys learning by **building, experimenting, and solving problems**.
+## 🧑‍💻 About Me
 
-I’m especially interested in the space where **code + data + AI** come together.
+🎓 Computer Science Engineering Student
+🐍 Exploring Python and software development
+🤖 Interested in AI, Machine Learning & Generative AI
+🧠 Experimenting with RAG & LLMs
+📊 Exploring SQL, Excel & Data Analytics
+🚀 Turning ideas into practical projects
+
+## 🔍 Tech I'm Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-🤖-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-🧠-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-✨-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-🚀-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-📊-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analytics-📈-blue?style=for-the-badge" />
+</p>
+
+## 🛠️ What I Build
+
+* 🤖 AI-powered applications
+* 🧠 RAG & LLM experiments
+* 📊 Data-driven projects
+* 🐍 Python applications
+* 📈 Data analysis & Excel solutions
+* 💻 Web & software projects
+
+## 📈 My GitHub Journey
 
 ```text
-💻 Code        → Python • SQL • Web
-🤖 Intelligence → AI/ML • RAG • LLMs • Generative AI
-📊 Data         → Excel • Data Analytics
-🛠️ Workflow     → Build • Test • Improve
+Learn → Experiment → Build → Improve → Repeat 🔄
 ```
 
----
-
-## 🚀 What I'm Building
-
-> Turning concepts into projects and projects into experience.
-
-* 🤖 **AI-powered applications**
-* 🧠 **RAG & LLM experiments**
-* 🐍 **Python projects & problem solving**
-* 📊 **Data analysis & visualization**
-* 📈 **Excel-based solutions**
-* 💻 **Practical software projects**
-
----
-
-## 🧰 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode" alt="Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-Exploring-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-Exploring-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Excel-Exploring-green?style=flat-square" />
-</p>
-
----
+Every repository represents something I learned, experimented with, or wanted to create.
 
 ## 🌱 Currently Learning
 
-`Advanced Python` · `Machine Learning` · `RAG` · `LLMs`
-`Generative AI` · `SQL` · `Excel` · `Data Analytics`
+`Advanced Python` • `Machine Learning` • `RAG` • `LLMs` • `Generative AI` • `SQL` • `Excel` • `Data Analytics`
 
----
-
-## 📊 GitHub Snapshot
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoyanaaz786&show_icons=true&hide_border=true" width="48%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=zoyanaaz786&hide_border=true" width="48%" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zoyanaaz786&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=zoyanaaz786&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
+## 💻 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoyanaaz786&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoyanaaz786&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
----
+## 🎯 What I'm Working Towards
 
-## 🔄 How I Learn
-
-```text
-   Curiosity
-       ↓
-    Explore
-       ↓
-     Build
-       ↓
-   Experiment
-       ↓
-    Improve
-       ↓
-     Repeat 🔁
-```
-
-Every repository here is part of that journey — **something I built, something I learned, or something I wanted to understand better.**
-
----
-
-## 🎯 Looking Ahead
-
-My goal is to grow into a developer who can take a problem from **idea → code → solution** and create technology that is genuinely useful.
+Becoming a developer who doesn't just **use technology**, but understands it, builds with it, and uses it to solve meaningful real-world problems.
 
 <p align="center">
 
-### 💡 **Think it. Build it. Learn from it.**
+### ✨ Ideas become projects when curiosity meets code.
 
-🌟 **Thanks for exploring my GitHub!**
+**🌟 Thanks for exploring my little corner of GitHub!**
 
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient" width="100%" alt="Footer" />
 </p>
